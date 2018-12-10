@@ -35,3 +35,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Grade-Trak
+# A CSCI 3002 Project by Connor Guerin and Sang-Joon Song
+
+## Project Overview
+
+Grade-Trak is an application that allows students to monitor their grades and set goals and deadlines for themselves. This app is intended to have a greater focus on grade management then current solutions, and would give students more tools to manage their academic performance.
+
+## Group Members
+Connor Guerin
+cogu4579@colorado.edu
+
+Sang-Joon Song
+saso7680@colorado.edu
+
+## Project Milestones
+
+## Figma Prototype
+
+## Project Video
