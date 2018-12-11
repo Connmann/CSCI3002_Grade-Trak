@@ -6,11 +6,9 @@ _A CSCI 3002 Project by Connor Guerin and Sang-Joon Song_
 Grade-Trak is an application that allows students to monitor their grades and set goals and deadlines for themselves. This app is intended to have a greater focus on grade management then current solutions, and would give students more tools to manage their academic performance.
 
 ## Group Members
-Connor Guerin
-cogu4579@colorado.edu
+Connor Guerin - [cogu4579@colorado.edu](cogu4579@colorado.edu)
 
-Sang-Joon Song
-saso7680@colorado.edu
+Sang-Joon Song - [saso7680@colorado.edu](saso7680@colorado.edu)
 
 ## Project Milestones
 
@@ -23,6 +21,8 @@ saso7680@colorado.edu
 **Group 5** - [Usability Testing and Heuristic Evaluation](https://docs.google.com/document/d/1aT1X7qzynw7_9FffIrCKrdD048c5DvVwU66bjtdZ2Dk/edit?usp=sharing)
 
 **Group 6** - [Prototype Change Log](https://docs.google.com/document/d/1w7OeyBn6e5v2aIDQIg4PM7sI-il2CQAqwWNGecTa5fQ/edit?usp=sharing) & [Video Storyboard](https://drive.google.com/file/d/1iLXXYz0wGJjWo159Nary7HrE-LiuG-EH/view?usp=sharing)
+
+**Drive Folder** - [Project Drive Folder](https://drive.google.com/drive/folders/1FSLchz7-HeF6QJUcSkOGuADKajCgvyac?usp=sharing) (Contains all of the assignments and supporting files for this project)
 
 ## Figma Prototypes
 
