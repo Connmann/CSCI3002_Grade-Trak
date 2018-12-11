@@ -7,12 +7,9 @@ Grade-Trak is an application that allows students to monitor their grades and se
 
 ## Group Members
 Connor Guerin
-
 cogu4579@colorado.edu
 
-
 Sang-Joon Song
-
 saso7680@colorado.edu
 
 ## Project Milestones
@@ -36,21 +33,3 @@ saso7680@colorado.edu
 ## Project Video
 
 [Final Project Video](https://drive.google.com/file/d/1a6iuLmnjr1XdD_RRaJgLeQs0wffopT_o/view?usp=sharing)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
