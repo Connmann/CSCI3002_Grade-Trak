@@ -12,6 +12,8 @@ Sang-Joon Song - [saso7680@colorado.edu](saso7680@colorado.edu)
 
 ## Project Milestones
 
+_You must be signed into a CU Google account to access all of the following links_
+
 **Group 2** - [Project Plan](https://docs.google.com/document/d/1Yg4Z_kykBVfx426AoH6sG8aMbTdf_BD_U-JH4fi_ews/edit?usp=sharing)
 
 **Group 3** - [Design Research](https://docs.google.com/document/d/1EooqOGYZ7TFotZLnEDyKebNMA4ab--87CzK0hQx5epk/edit?usp=sharing)
